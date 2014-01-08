@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='3'>
+    <iu id='net.sf.eclipsecs.feature.group' name='Eclipse Checkstyle Plug-in' version='5.6.1.201306282206'>
+      <repositories size='1'>
+        <repository location='http://eclipse-cs.sourceforge.net/update/'/>
+      </repositories>
+    </iu>
+    <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme' version='0.12.0.201207240713'>
+      <repositories size='1'>
+        <repository location='http://eclipse-color-theme.github.com/update'/>
+      </repositories>
+    </iu>
+    <iu id='net.sourceforge.texlipse.feature.group' name='TeXlipse' version='1.5.0'>
+      <repositories size='1'>
+        <repository location='http://texlipse.sourceforge.net/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
